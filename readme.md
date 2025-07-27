@@ -18,10 +18,13 @@ The `momodbus` tool supports the following Modbus function codes:
   - **FC 16**: Write Multiple Registers
 
 ## Prerequisites
-- **Python 3.8+**
+- **Python 3.13+**
 - **pip** (Python package manager)
 - **Node.js** and **npm** (for Node-RED)
 - **socat** (for serial port simulation)
+- **pyseria**
+- **pymodbus**
+- **click**
 - A Unix-like system (e.g., macOS, Linux) or WSL on Windows
 
 ## 1. Installation
