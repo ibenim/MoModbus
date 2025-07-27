@@ -22,7 +22,7 @@ The `momodbus` tool supports the following Modbus function codes:
 - **pip** (Python package manager)
 - **Node.js** and **npm** (for Node-RED)
 - **socat** (for serial port simulation)
-- **pyseria**
+- **pyserial**
 - **pymodbus**
 - **click**
 - A Unix-like system (e.g., macOS, Linux) or WSL on Windows
